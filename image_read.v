@@ -1,7 +1,3 @@
-// By FPGA4student.com
-/******************************************************************************/
-/******************  Module for reading and processing image     **************/
-/******************************************************************************/
 `include "parameter.v" 						// Include definition file
 module image_read
 #(
